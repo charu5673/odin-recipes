@@ -1,0 +1,12 @@
+h1{
+    color: rgb(0,0,150);
+    font-weight: bold;
+}
+ul li{
+    background-color: pink;
+    font-family: Helvetica, Arial, sans-serif;
+}
+ol li{
+    background-color: purple;
+    font-family: Helvetica, Arial, sans-serif;
+}
